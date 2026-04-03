@@ -1,0 +1,6 @@
+target/
+*.o
+*.ll
+vmlinux.h
+.env
+config.local.yaml
